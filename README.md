@@ -49,21 +49,23 @@ Triggers when failed authentication attempts exceed a threshold within a short t
 
 ## Screenshots
 
-### Active Directory Domain Controller
-![AD Domain](screenshots/ad-domain.png)
+### Active Directory Users and Accounts
+![AD Users](screenshots/ad-users.png)
 
-### Failed Login Event Logs (4625)
+### Group Policy Security Hardening (Account Lockout Policy)
+![GPO Lockout Policy](screenshots/gpo-lockout-policy.png)
+
+### Failed Login Event Generated on Domain Controller (4625)
 ![Event Viewer](screenshots/eventviewer-4625.png)
 
-### Sentinel Log Ingestion Proof
-![Sentinel Query](screenshots/sentinel-query.png)
+### Sentinel Log Ingestion Proof (Event ID 4625)
+![Sentinel Query](screenshots/sentinel-query-4625.png)
 
-### Analytics Detection Rule
-![Alert Rule](screenshots/analytics-rule.png)
+### Detection Rule Enabled (Failed Login Spike)
+![Analytics Rule](screenshots/analytics-rule.png)
 
 ### Authentication Monitoring Dashboard
-![Workbook](screenshots/workbook-dashboard.png)
-
+![Workbook Dashboard](screenshots/sentinel-dashboard.png)
 ---
 
 ## Resume Bullet
