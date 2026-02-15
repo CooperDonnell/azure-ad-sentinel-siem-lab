@@ -48,7 +48,7 @@ Triggers when failed authentication attempts exceed a threshold within a short t
 ## Screenshots
 
 ### Active Directory Users and Accounts
-![AD Users](screenshots/ad-users.png)
+![AD Users](screenshots/Ad-users.png)
 
 ### Group Policy Security Hardening (Account Lockout Policy)
 ![GPO Lockout Policy](screenshots/gpo-lockout-policy.png)
@@ -63,7 +63,7 @@ Triggers when failed authentication attempts exceed a threshold within a short t
 ![Analytics Rule](screenshots/analytics-rule.png)
 
 ### Authentication Monitoring Dashboard
-![Workbook Dashboard](screenshots/sentinel-dashboard.png)
+![Workbook Dashboard](screenshots/Sentinel-dashboard.png)
 
 ---
 
