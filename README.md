@@ -66,11 +66,6 @@ Triggers when failed authentication attempts exceed a threshold within a short t
 
 ### Authentication Monitoring Dashboard
 ![Workbook Dashboard](screenshots/sentinel-dashboard.png)
+
 ---
 
-## Resume Bullet
-Active Directory + Microsoft Sentinel SIEM Monitoring Lab (Azure)  
-- Deployed Windows Server 2022 Domain Controller and configured authentication policies  
-- Ingested Windows Security events into Microsoft Sentinel using Azure Monitor Agent  
-- Built analytics rule to detect brute-force failed login attempts (Event ID 4625)  
-- Created SOC dashboards to monitor authentication threats and account targeting  
