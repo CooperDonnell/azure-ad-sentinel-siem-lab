@@ -48,7 +48,7 @@ Triggers when failed authentication attempts exceed a threshold within a short t
 ## Screenshots
 
 ### Active Directory Users and Accounts
-![AD Users](screenshots/Ad-users.png)
+![AD Users](screenshots/AD-users.png)
 
 ### Group Policy Security Hardening (Account Lockout Policy)
 ![GPO Lockout Policy](screenshots/gpo-lockout-policy.png)
