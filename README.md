@@ -57,13 +57,13 @@ Triggers when failed authentication attempts exceed a threshold within a short t
 ![Event Viewer](screenshots/eventviewer-4625.png)
 
 ### Sentinel Log Ingestion Proof (Event ID 4625)
-![Sentinel Query](screenshots/sentinel-query-4625.png)
+![Sentinel Query](screenshots/Sentinel-Query-4625.png)
 
 ### Detection Rule Enabled (Failed Login Spike)
-![Analytics Rule](screenshots/analytics-rule.png)
+![Analytics Rule](screenshots/Analytics-Rule.png)
 
 ### Authentication Monitoring Dashboard
-![Workbook Dashboard](screenshots/Sentinel-dashboard.png)
+![Workbook Dashboard](screenshots/Sentinel-Dashboard.png)
 
 ---
 
